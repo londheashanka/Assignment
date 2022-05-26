@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            CSS Page
+        </title>
+       
+    </head>
+    <body>
+        <h1>This is heading 1</h1>
+        <h2>This heading 2</h2>
+        <h3>This heading 3</h3>
+        <h4>This heading 4</h4>
+    </body>
+    <!-- Apply CSS-->
+   
+    <style>
+        body{
+    background-color: #b0e0e6;
+}
+h2 {
+  text-decoration: line-through;
+}
+h3 {
+  text-decoration: underline;
+}
+    </style>
+</html>
